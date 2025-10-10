@@ -12,8 +12,8 @@ Je suis etudiant a l'IUT Robert Schuman, en BUT Informatique parcours : Réalisa
 ---
 
   ## 📊 Stats GitHub
-  ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=alex42&show_icons=true&theme=tokyonight)
-  ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex42&layout=compact&theme=tokyonight)
+  ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Saduso&show_icons=true&theme=tokyonight)
+  ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saduso&layout=compact&theme=tokyonight)
 
 ---
 
