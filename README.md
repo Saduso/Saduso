@@ -9,7 +9,7 @@ Je suis etudiant a l'IUT Robert Schuman, en BUT Informatique parcours : Réalisa
 - 🌱 Je perfectionne mes compétences web en php 
 - 🎮 J’adore les jeux vidéo, le métal et les soirées D&D
 
-Vous trouverez ci-dessous [mes projets](###-🔗-Me-retrouver)
+Vous trouverez ci-dessous mes projets
 
 ---
 
