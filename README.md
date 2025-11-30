@@ -1,6 +1,10 @@
+# Hi, I'm Liam!
+
+  I'm a student at the Robert Schuman University Institute of Technology, studying for a Bachelor's degree in Computer Science
+
 # Salut, moi c’est Liam !
 
-Je suis etudiant a l'IUT Robert Schuman, en BUT Informatique parcours : Réalisation d'applications : conception, développement, validation. 
+  Je suis etudiant a l'IUT Robert Schuman, en BUT Informatique parcours : Réalisation d'applications : conception, développement, validation. 
 
 📍Basé a Strasbourg, France
 
@@ -9,7 +13,7 @@ Je suis etudiant a l'IUT Robert Schuman, en BUT Informatique parcours : Réalisa
 - 🌱 Je perfectionne mes compétences web en php 
 - 🎮 J’adore les jeux vidéo, le métal et les soirées D&D
 
-Vous trouverez ci-dessous mes projets
+Vous trouverez sous mon readme certains de mes projets
 
 ---
 
