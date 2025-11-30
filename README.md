@@ -1,3 +1,5 @@
+![Banner](https://media1.tenor.com/m/1vIoFOWM8goAAAAd/dr-stone-science.gif)
+
 # Hi, I'm Liam!
 
   I'm a student at the Robert Schuman University Institute of Technology, studying for a Bachelor's degree in Computer Science
