@@ -1,10 +1,8 @@
 ![Banner](https://github.com/Saduso/Saduso/blob/main/dr-stone-science.gif)
 
-# Hi, I'm Liam!
+# Hi, I'm Liam ! / Salut, moi c'est Liam !
 
   I'm a student at the Robert Schuman University Institute of Technology, studying for a Bachelor's degree in Computer Science
-
-# Salut, moi c’est Liam !
 
   Je suis etudiant a l'IUT Robert Schuman, en BUT Informatique parcours : Réalisation d'applications : conception, développement, validation. 
 
