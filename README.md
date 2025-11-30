@@ -14,8 +14,8 @@ Vous trouverez ci-dessous mes projets
 ---
 
   ## 📊 Stats GitHub
-  ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Saduso&show_icons=true&theme=tokyonight)
-  ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saduso&layout=compact&theme=tokyonight)
+  ![Stats GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Saduso&show_icons=true&theme=tokyonight)
+  ![Langages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saduso&layout=compact&theme=tokyonight)
 
 ---
 
