@@ -1,4 +1,4 @@
-![Banner](https://media1.tenor.com/m/1vIoFOWM8goAAAAd/dr-stone-science.gif)
+![Banner](https://github.com/Saduso/Saduso/blob/main/dr-stone-science.gif)
 
 # Hi, I'm Liam!
 
